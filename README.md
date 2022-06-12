@@ -26,5 +26,5 @@ To view the codes and the collab notes, one can easily open it using google coll
 
 Incase of any questions or contributions you can reach author .
 
-frankthairu@gmail.com
+frankithairu@gmail.com
 
